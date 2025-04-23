@@ -17,12 +17,5 @@ This application has a few main features:
 * **Retrieve:** Paste the encrypted text you saved earlier and enter the passkey you used. Click "Decrypt". If the passkey is correct, you'll see your original text. Be careful, if you enter the wrong passkey too many times, you might need to log in.
 * **Login:** If you get locked out from retrieving, enter the master password (`admin123`) and click "Login" to reset the failed attempts.
 
-## Important Notes.
-
-* **This is a simple example:** This application is for demonstration purposes and is not meant for storing really sensitive information in a real-world scenario.
-* **In-memory storage:** The data you store is kept in the computer's memory while the app is running. If you close the browser or stop the app, the stored data will be lost.
-* **Key Management:** The way the encryption key is handled in this example is not very secure for real use. In a real application, managing encryption keys is much more complex.
-* **Master Password:** The master password (`admin123`) is hardcoded and very easy to guess. This is a big security risk in a real application.
-
-* Huzaifa Khan Ghouri
-* GIAIC #419013
+# Huzaifa Khan Ghouri
+# GIAIC #419013
